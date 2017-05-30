@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Name: myjavabean/Bean.class
+Java-Bean: True
